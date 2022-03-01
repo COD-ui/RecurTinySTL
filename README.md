@@ -1,6 +1,6 @@
-# recurrent_STL
+# RecurTinySTL
 # 简介
-recurrent_STL将基于c++ 11对STL中的容器和函数进行复现
+RecurTinySTL将基于c++ 11对STL中的容器和函数进行复现
 # 支持
 windows
 # 备注
